@@ -15,4 +15,19 @@
         <php_minimum>8.1</php_minimum>
         <sha256>aeeab13a47277499fd469dd90951faf2036a2999af84f2e1c8de73c79630da49</sha256>
     </update>
+    <update>
+        <name>System - WWCC SEF API Export</name>
+        <description>Exposes a secure standalone API endpoint to fetch SEF URLs.</description>
+        <element>wwcc_sef_api</element>
+        <type>plugin</type>
+        <folder>system</folder>
+        <client>site</client>
+        <version>1.1.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/conical-io/joomla-plugins-releases/releases/download/wwcc_sef_api-v1.1.1/wwcc_sef_api-v1.1.1.zip</downloadurl>
+        </downloads>
+        <targetplatform name="joomla" version="5.*" />
+        <php_minimum>8.1</php_minimum>
+        <sha256>e7ef0c5f9c268ca98c83bb441e9cc5c1180f7c089e57f38532fafa586912065c</sha256>
+    </update>
 </updates>
