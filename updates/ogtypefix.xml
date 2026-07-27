@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<updates>
+    <update>
+        <name>System - WWCC OG Type Fix</name>
+        <description>Forces og:type to website outside a chosen set of categories.</description>
+        <element>ogtypefix</element>
+        <type>plugin</type>
+        <folder>system</folder>
+        <client>site</client>
+        <version>1.0.0</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/conical-io/joomla-plugins-releases/releases/download/ogtypefix-v1.0.0/ogtypefix-v1.0.0.zip</downloadurl>
+        </downloads>
+        <targetplatform name="joomla" version="5.*" />
+        <php_minimum>8.1</php_minimum>
+        <sha256>376c551a596749f4aaed135bb21445ad81cb7f5a4d9fb1d11f315172fd0ae8d7</sha256>
+    </update>
+</updates>
